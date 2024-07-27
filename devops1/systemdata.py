@@ -1,7 +1,7 @@
 import panadas as pd
 import platform
 import yaml
-
+r = platform.platform
 r1 = platform.version()
 r2 = platform.node()
 r3 = platform.processor()
